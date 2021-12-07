@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/copy.png</file>
+        <file>imgs/exit.png</file>
+        <file>imgs/open.png</file>
+        <file>imgs/paste.jpg</file>
+        <file>imgs/print.png</file>
+        <file>imgs/save-all.png</file>
+        <file>imgs/zoom_in.png</file>
+        <file>imgs/zoom_out.png</file>
+        <file>imgs/save.png</file>
+        <file>imgs/de.png</file>
+        <file>imgs/en.png</file>
+        <file>imgs/appIcon.ico</file>
+        <file>imgs/zoom_100.png</file>
+        <file>imgs/zoom_fit.png</file>
+        <file>imgs/darkmode.png</file>
+        <file>imgs/rgb.png</file>
+    </qresource>
+</RCC>
